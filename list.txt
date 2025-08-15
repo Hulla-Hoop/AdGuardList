@@ -1,0 +1,4 @@
+||bs.serving-sys.ru^
+||ads.adfox.ru^
+||yandex.ru/ads/meta^
+||yandex.ru/an/rtbcount^
